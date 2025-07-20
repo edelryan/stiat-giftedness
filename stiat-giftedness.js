@@ -30,9 +30,9 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 				height: 7
 			},
 			media: [
-				{word: 'Arrogant'},
-				{word: 'Isolated'},
-				{word: 'Awkward'},
+				{word: 'Sample 1'},
+				{word: 'Sample 2'},
+				{word: 'Sample 3'},
 				{word: 'Weird'},
 				{word: 'Entitled'},
 				{word: 'Selfish'}
@@ -48,7 +48,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 				height: 7
 			},
 			media: [
-				{word: 'Motivated'},
+				{word: 'Sample 4'},
 				{word: 'Curious'},
 				{word: 'Creative'},
 				{word: 'Helpful'},
