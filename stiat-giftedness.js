@@ -30,12 +30,10 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 				height: 7
 			},
 			media: [
-				{word: 'Sample 1'},
-				{word: 'Sample 2'},
-				{word: 'Sample 3'},
-				{word: 'Weird'},
-				{word: 'Entitled'},
-				{word: 'Selfish'}
+				{word: 'five'},
+				{word: 'six'},
+				{word: 'seven'},
+				{word: 'eight'}
 			],
 			css: {color:'#31b404','font-size':'3em'}
 		},
@@ -48,12 +46,10 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 				height: 7
 			},
 			media: [
-				{word: 'Sample 4'},
-				{word: 'Curious'},
-				{word: 'Creative'},
-				{word: 'Helpful'},
-				{word: 'Hardworking'},
-				{word: 'Friendly'}
+				{word: 'one'},
+				{word: 'two'},
+				{word: 'three'},
+				{word: 'four'}
 			],
 			css: {color:'#31b404','font-size':'3em'}
 		},
